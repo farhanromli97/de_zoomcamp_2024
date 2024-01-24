@@ -21,4 +21,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-.json
+*.json
