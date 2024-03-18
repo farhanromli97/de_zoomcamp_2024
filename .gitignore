@@ -1,0 +1,6 @@
+# Ignore Word document file
+*.docx
+
+# Ignore csv.csv.gz
+*.csv*
+
