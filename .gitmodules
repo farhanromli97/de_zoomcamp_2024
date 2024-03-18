@@ -1,0 +1,3 @@
+[submodule "week_6_stream_processing/risingwave-data-talks-workshop-2024-03-04"]
+	path = week_6_stream_processing/risingwave-data-talks-workshop-2024-03-04
+	url = https://github.com/risingwavelabs/risingwave-data-talks-workshop-2024-03-04
